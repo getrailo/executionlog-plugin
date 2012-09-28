@@ -1,0 +1,11 @@
+<languages action="monitor" position="6">
+	<language key="en">
+		<group>Monitor</group>
+		<title>CodeMetrix Execution Log</title>
+		<description>
+
+            This plugin logs all the requests so that the CodeMetrix tool can get information and display execution paths for you
+        </description>
+
+	</language>
+</languages>
